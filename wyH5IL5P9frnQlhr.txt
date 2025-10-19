@@ -1,0 +1,5 @@
+wyH5IL5P9frnQlhr
+
+mongodb+srv://braziezinho_db_user:wyH5IL5P9frnQlhr@cluster0.9zvtmhx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+https://github.com/RonaldoCodigos/dashboard-financeiro.git
